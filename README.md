@@ -1,16 +1,5 @@
 # chat_gpt_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/m-mourouh/chat_gpt_flutter/assets/60442896/4bf3183c-deb8-4b88-a03a-79b7a099fb9e)
+![1](https://github.com/m-mourouh/chat_gpt_flutter/assets/60442896/c49f1495-d364-4560-8425-d369adffdfd1)
+![2](https://github.com/m-mourouh/chat_gpt_flutter/assets/60442896/28ec27b4-ebbf-4df3-8487-5b1d84348ab1)
